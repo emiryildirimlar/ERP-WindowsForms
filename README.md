@@ -1,5 +1,6 @@
 
- ERP Windows Forms
+ERP Windows Forms
+
 ![Resim11](https://github.com/user-attachments/assets/38a0db33-abeb-4a4c-aa05-97cde120c3e4)
 
 İş Takip Uygulaması (Staj Projesi - OPAK YAZILIM)
@@ -14,9 +15,9 @@ Bu proje, 2024 yaz stajım boyunca OPAK YAZILIM firmasında geliştirdiğim bir 
 
  🔧 Kullanılan Teknolojiler
 
-- *C# (Windows Forms):** Arayüz ve iş mantığı
-- *Entity Framework:** Veritabanı işlemleri
-- *MSSQL:** Veritabanı yönetimi
+- C# (Windows Forms): Arayüz ve iş mantığı
+- Entity Framework: Veritabanı işlemleri
+- MSSQL: Veritabanı yönetimi
 
 📖 Staj Defteri
 
